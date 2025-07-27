@@ -1,6 +1,5 @@
 # Machine-Learning
 
-Welcome to the Machine Learning Space
+Welcome to the Machine Learning Environment
 
-Feel free to add and contibute to projects as
-you see fit
+Feel free to add and contribute to projects as you see fit
